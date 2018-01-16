@@ -1,1 +1,5 @@
-login
+<?php
+
+echo "login";
+
+?>
